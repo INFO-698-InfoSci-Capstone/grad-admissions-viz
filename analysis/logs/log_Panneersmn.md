@@ -71,3 +71,5 @@ Week 11 ,  03/28/2025
 ## Additional thought
   - Have to decide about the software that we need to use as a team to analyze the data. Considering options like Tableau , Power BI and/or Python
   - Have to clean up and process the data after the queries are being resolved and try to come up with more clear numbers and analysis.
+
+---
