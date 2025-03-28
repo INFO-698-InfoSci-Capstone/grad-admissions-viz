@@ -24,3 +24,50 @@ Write anything that you think would be important for YOU later on.
 
 ---
 
+### Date: 
+Week 10 , Till 03/21/2025
+
+### Number of hours: 
+8 - 10 hours
+
+### Rose:
+  - Introduction about the student admission funnel in higher education
+  - Completed the courses and FERPA training shared by the advisor
+  - Discussion about the various data sources like Grad Slate, Grad App, UAnalytics
+  - Analyzing the data dumps provided by the advisor
+  - Getting to know the data flow in each stage
+  - Showed the advisor a little picture of admission trends w.r,t to the applicant's citizenship using excel pivot table and chart over the call.
+  - Went through a capstone project done in the past in theadmission trend analysis
+
+### Bud: 
+  - Getting a training session on UAnalytics 
+
+### Thorn: 
+  - DCC approval process is still in progress.
+    
+## Additional thought
+  - Have to decide about the software that we need to use as a team to analyze the data. Considering options like Tableau , Power BI and/or Python
+
+---
+
+### Date: 
+Week 11 ,  03/28/2025
+
+### Number of hours: 
+8 hours
+
+### Rose:
+  - Trying to clean and analyzee the data pulled from  Grad Slate
+  - Used python to remove the redacted data and create custom columns that help in analyzing the data
+  - Able to come up with few trends like top 10 countries where applicants are interested in 'Main Campus' and 'Online Programs', Numbeer of applicants interested in 'Online' and 'Main Campus' Programs and few other
+  - Came up with a number of questions regarding the data during this analysis and those questions are uploaded in a shared document for the team to discuss among us and hte advisor.
+    
+### Bud: 
+  - Getting a training session on UAnalytics 
+
+### Thorn: 
+  - DCC approval process is still in progress.
+    
+## Additional thought
+  - Have to decide about the software that we need to use as a team to analyze the data. Considering options like Tableau , Power BI and/or Python
+  - Have to clean up and process the data after the queries are being resolved and try to come up with more clear numbers and analysis.
