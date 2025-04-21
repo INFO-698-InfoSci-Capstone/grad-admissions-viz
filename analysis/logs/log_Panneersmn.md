@@ -134,3 +134,55 @@ Week 13 ,  04/11/2025
 ## Additional thought
 
 ---
+
+### Date:
+Week 14 ,  04/18/2025
+
+### Number of hours: 
+2 hours
+
+### Rose:
+  - Updated the project planning document with the above list of visualizations.
+  - Tavia had a discussion with the Admission Team and prioritized 6 visualtions and analysis of Prospective students. List is as follows.
+    - Program Type Preferences (School of Information Science) - Admissions Team Priority
+        - A pie chart showing the percentage of prospective students interested in each program type within the School of Information Science:
+             - Only Main Campus
+             - Only Online Campus
+             - Both Campuses
+
+    -  Program-Level Interest Breakdown - Admissions Team Priority
+	      -  A pie chart representing the percentage of prospective students interested in the five key programs within the School of Information Science, along with their preferences for campus type (Main, Online, or Both):
+            -  Library & Information Science (MA)
+            -  Information (PhD)
+            -  MS in Data Science
+            -  MS in Human-Centered Computing
+            -  MS in Machine Learning
+
+    -  Program Type Interest by Term - Admissions Team Priority
+	      -  An interactive stacked bar chart showing the number of prospective students interested in each program type (Main Campus, Online Campus, Both) broken down by academic term.
+
+    -  Program-Specific Interest by Term - Admissions Team Priority
+	      -  An interactive stacked bar chart displaying the number of students interested in each of the five programs, further segmented by campus preference, across different academic terms.
+
+    -  Admission Heatmap and Trend Line (Top 10 Countries) - Admissions Team Priority
+	      -  A heatmap and line chart by year and country for the top 10 countries, showing interest levels in:
+             -  Only Main Campus
+             -  Only Online Campus
+             -  Both Cmapuses 
+              
+    -  Global Interest Trends – World Map Heatmap - Admissions Team Priority
+	      -  A heatmap overlaid on a world map showing year-wise interest trends from the top 10 countries for:
+              -  Main Campus
+              -  Online Campus
+              -  Both Campuses
+              -  Overall interest in the School of Information Science
+           
+### Bud: 
+  - Trying to understand how to clean the data and create reports/dashboard using Tableu so that the above list of visualizations could be presented as a dashboard
+    
+### Thorn: 
+  - Have to find out how to pull the data from the UAnalytics so that we can build any informative report.
+    
+## Additional thought
+
+---
