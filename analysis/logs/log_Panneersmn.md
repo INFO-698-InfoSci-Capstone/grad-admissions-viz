@@ -186,3 +186,30 @@ Week 14 ,  04/18/2025
 ## Additional thought
 
 ---
+
+### Date:
+Week 15 ,  04/25/2025
+
+### Number of hours: 
+16 hours
+
+### Rose:
+  - Received the list of high priority visualizations from the work presented to Tavia last week wrt GradSlate.
+  - Visulaizations created using python have to be presented in Tableau dashboard as the final deleiverable.
+  - Iniatillay tried "Tableau Prep" to clean the raw data extract and create claculated fields. But it was challenging and after trying for few hours, decided to drop the idea. Instead,  used Python to clean and filter the data and add any initial new fields that could help in furhter analysis.
+  - The cleaned and processed data is then exported as a excel file and used as an input to the Tableau Public desktop.
+  - From there, I tried to replicate the visulaziations prioritized by Tavia, by creating calculated fields and created a sheet for each visulaization.
+  - After all the visulizations were created in separate sheets, I started creating dashboard and realized that not all visualizations can fit in a single dashboard.
+  - But we need all the high priority visualizations as the final deliverable. So I created 10 dashboards to present all the visualizations and made use of the "Navigation" button at the  bottom of each dashboard so that we can navigate to the previous and next dashboard from any dashboard.
+  - After the dashboards are done, Since the Student license was used, the dashboard gets published in public. So far now, the visualization has been hidden under my profile and shared the link with the team and Tavia.
+  - Presented the dashboard to Tavia and received positive feedack. She said she is good with it and no furhter action required in the dashboard.
+               
+### Bud: 
+  - As part of poster creations, we as a team should come up with the final list of visualizations that should be the part of the poster. Team will discuss on this next week.
+    
+### Thorn: 
+  - 
+    
+## Additional thought
+
+---
