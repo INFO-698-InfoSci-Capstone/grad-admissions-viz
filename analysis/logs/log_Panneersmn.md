@@ -213,3 +213,24 @@ Week 15 ,  04/25/2025
 ## Additional thought
 
 ---
+
+### Date:
+Week 16 ,  05/02/2025
+
+### Number of hours: 
+6 hours
+
+### Rose:
+  - Selected 2 visualizations from Gradslate Data to be included in the poster.
+  - Had to modify the Python code to include/exclude data and format the color, and legends so that the graphs fit well in the poster template.
+  - Started preparing the final project report. Have created a draft report with the details of the project and links to all the data, code , and dashboards created by the team.
+               
+### Bud: 
+  - Have  to complete the final project report.
+    
+### Thorn: 
+  - 
+    
+## Additional thought
+
+---
