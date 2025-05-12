@@ -234,3 +234,22 @@ Week 16 ,  05/02/2025
 ## Additional thought
 
 ---
+
+### Date:
+Week 17 ,  05/09/2025
+
+### Number of hours: 
+0.5 hour
+
+### Rose:
+  - Working on the documentation.
+               
+### Bud: 
+  - 
+    
+### Thorn: 
+  - 
+    
+## Additional thought
+
+---
