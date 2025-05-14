@@ -253,3 +253,20 @@ Week 17 ,  05/09/2025
 ## Additional thought
 
 ---
+
+### Date:
+Week 18 ,  05/14/2025
+
+### Number of hours: 
+5 - 6  hours
+
+### Rose:
+  - Completed the final documentation and formatted it.
+               
+### Bud: 
+  - 
+    
+### Thorn: 
+  - 
+    
+## Additional thought
