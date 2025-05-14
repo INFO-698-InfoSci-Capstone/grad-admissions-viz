@@ -3,4 +3,4 @@
                                                 Spring 2025
 
         
-[View Full Report (PDF)](Info 698 Capstone Project Spring'25 - Analyzing Graduate Admissions Trends.pdf)
+[View full report here](https://github.com/INFO-698-InfoSci-Capstone/grad-admissions-viz/blob/main/Info%20698%20Capstone%20Project%20Spring'25%20-%20Analyzing%20Graduate%20Admissions%20Trends.pdf)
